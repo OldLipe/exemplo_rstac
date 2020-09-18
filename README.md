@@ -1,4 +1,4 @@
-# Exemplo de uso do cliente `rstac` <img src="https://raw.githubusercontent.com/brazil-data-cube/rstac/master/inst/extdata/img/logo.png" align="right" width="110" /> <img src="https://brazil-data-cube.github.io/tech-talks/_static/logo-bdc-techtalks.png" align="right" width="150" />
+# Exemplo de uso do cliente `rstac` <img src="https://raw.githubusercontent.com/brazil-data-cube/rstac/master/inst/extdata/img/logo.png" align="right" width="70" /> <img src="https://brazil-data-cube.github.io/tech-talks/_static/logo-bdc-techtalks.png" align="right" width="110" />
 
 <br><br>
 
